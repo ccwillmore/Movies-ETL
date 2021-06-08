@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+C:/Users/User/git/Movies-ETL/movies_metadata.csv
+C:/Users/User/git/Movies-ETL/ratings.csv
 # C extensions
 *.so
 
