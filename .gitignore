@@ -6,7 +6,7 @@ C:/Users/User/git/Movies-ETL/movies_metadata.csv
 C:/Users/User/git/Movies-ETL/ratings.csv
 # C extensions
 *.so
-
+config.py
 # Distribution / packaging
 .Python
 build/
